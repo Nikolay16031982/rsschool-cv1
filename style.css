@@ -49,3 +49,15 @@ body{
   .link-nav:hover {
     color: #320685;
   }
+
+  .phone {
+	color: #000;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.phone a {
+	color: #000;
+	font-size: 16px;
+	font-weight: 400;
+}
