@@ -23,3 +23,29 @@ body{
     justify-content: flex-end;
     list-style: none;
 }
+
+.link-nav {
+    padding: 0 30px;
+    transition: .3s;
+    text-decoration: none;
+    transition: color 0.6s;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .logo{
+    width: 70px;
+    height: 30px;
+  }
+
+  .section-title {
+    font-size: 20px;
+    font-weight: 300;
+  }
+
+  .link-nav:hover {
+    color: #320685;
+  }
